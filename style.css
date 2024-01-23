@@ -12,7 +12,9 @@ body header nav {
 
 
 footer {
-    background-color: rgba(116, 36, 2, 0.553);
+  text-align:center;
+  padding: 30px;
+    background-color: rgba(255, 77, 0, 0.694);
 }
 
 body main table img {
@@ -22,10 +24,11 @@ body main table img {
 
 }
 
-body main table th {
+body main table  {
     background-color: rgb(225, 203, 1);
     border-style: groove 100%;
     font-family: cursive;
+    text-align: center;
 
 }
 
@@ -33,10 +36,6 @@ body {
     background-color: rgb(144, 248, 255);
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
 
 .container {
     line-height: 1.4;
